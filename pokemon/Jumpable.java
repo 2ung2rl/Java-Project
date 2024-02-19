@@ -1,0 +1,3 @@
+interface Jumpable {
+    void jump();
+}
